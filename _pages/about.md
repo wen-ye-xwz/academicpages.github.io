@@ -23,7 +23,7 @@ My primary research interests encompass the development of machine learning and 
 	<p style='font-size:20px; margin-bottom:2px'><b>University of Southern California</b></p>
 	<i>Aug. 2024 - Present</i>
 </div>
-<P>Ph.D. in Computer Science
+Ph.D. in Computer Science
 
 <div style='display: flex; justify-content: space-between;'>
 	<p style='font-size:20px; margin-bottom:2px'><b>University of Wisconsin - Madison</b></p>
