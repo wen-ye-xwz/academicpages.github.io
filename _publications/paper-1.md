@@ -1,7 +1,7 @@
 ---
 title: "TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting"
 collection: publications
-permalink: /publication/paper-3
+permalink: /publication/paper-1
 excerpt: ''
 date: 2024-5-7
 venue: 'The Twelfth International Conference on Learning Representations (ICLR 2024)'

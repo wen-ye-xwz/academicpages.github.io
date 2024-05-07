@@ -23,21 +23,17 @@ My primary research interests encompass the development of machine learning and 
 	<p style='font-size:20px'><b>University of Southern California</b></p>
 	<i>Aug. 2024 - Present</i>
 </div>
-GPA: **4.0**/4
-
-* Ph.D. in Computer Science
+Ph.D. in Computer Science
 
 <div style='display: flex; justify-content: space-between;'>
 	<p style='font-size:20px'><b>University of Wisconsin - Madison</b></p>
 	<i>Aug. 2019 - May 2023</i>
 </div>
 GPA: **4.0**/4
-
-* Bachelor of Science in **Computer Science**, **Data Science**, **Statistics**
+Bachelor of Science in **Computer Science**, **Data Science**, **Statistics**
 
 <!-- ## News
 Coming Soon... -->
-
 
 
 ## Selected Publications
@@ -45,7 +41,7 @@ Coming Soon... -->
 	**Wen Ye**, Song Gao \\
 	*Proceedings of the 3rd ACM SIGSPATIAL International Workshop on Spatial Computing for Epidemiology*
 
-More details are under [Publications](/publications/)
+More details are under [Publications](academicpages.github.io/publications/)
 
 <!-- ## Service -->
 
