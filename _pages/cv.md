@@ -68,4 +68,22 @@ redirect_from:
 * Held weekly office hours to help students debug and led discussion sessions to go over quiz materials
 * Designed and modified existing projects to be more challenging
 
-<!-- ## Research Projects -->
+## Research Projects
+
+<div style='display:flex; justify-content: space-between;'>
+	<a href='https://melady.usc.edu/' style='font-size:20px; margin:0px'><b>Melady Lab</b></a>
+	<i>May 2023 -- Present</i>
+</div>
+<div style='display:flex; justify-content:space-between; margin:0px'>
+<p style='margin:0px'>Ph.D. Student</p>
+<p style='margin:0px'>advisor: <i><a href='https://viterbi-web.usc.edu/~liu32/'>Prof. Yan Liu</a></i></p>
+</div>
+
+<h3 style='margin:10px 0px'> Synthetic Trajectory Generation </h3>
+* Leveraged diffusion model to generate synthetic trajectories
+* Designed a hierarchical framework for two-stage synthetic trajectory generation including milestones and segments
+
+<h3 style='margin:10px 0px'> Foundation Model for Time Series Modelling </h3>
+* Leveraged large language model for time series forecasting
+* Implemented patch tokenization of time series as well as patch mixing, contrastive learning
+* Experimented with pretraining strategies for masking time series

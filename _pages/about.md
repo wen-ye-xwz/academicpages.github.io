@@ -12,11 +12,11 @@ I am a Ph.D. student in the Computer Science department at University of Souther
 
 My primary research interests encompass the development of machine learning and data mining algorithms on spatial–temporal data. My current research focuses on **time series**; **foundation model** ; **diffusion** methods for **spatial-temporal data**.
 
-## Research Interest: 
+<!-- ## Research Interest: 
 * Time Series
 * Foundation Model
 * Diffusion
-* Spatial-Temporal
+* Spatial-Temporal -->
 
 ## Education
 <div style='display: flex; justify-content: space-between;'>
@@ -29,7 +29,6 @@ Ph.D. in Computer Science
 	<p style='font-size:20px'><b>University of Wisconsin - Madison</b></p>
 	<i>Aug. 2019 - May 2023</i>
 </div>
-GPA: **4.0**/4
 
 Bachelor of Science in **Computer Science**, **Data Science**, **Statistics**
 
@@ -48,4 +47,4 @@ More details are under [Publications](/publications/)
 
 
 ## Contact
-- wenye 'at' usc 'dot' edu
+- <a href="mailto:yewen@usc.edu">yewen@usc.edu</a>
