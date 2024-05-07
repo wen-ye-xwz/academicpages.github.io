@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the Computer Science department at University of Southern California (USC). I obtained my Bachelor degree from University of Wisconsin - Madison in Computer Science, Data Science, and Statistics. 
+I am a Ph.D. student in the Computer Science department at University of Southern California (USC) advised by <a href='https://viterbi-web.usc.edu/~liu32/'>Prof. Yan Liu</a>.  I obtained my Bachelor degree from University of Wisconsin - Madison in Computer Science, Data Science, and Statistics. 
 
 My primary research interests encompass the development of machine learning and data mining algorithms on spatial–temporal data. My current research focuses on **time series**; **foundation model** ; **diffusion** methods for **spatial-temporal data**.
 
