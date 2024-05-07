@@ -87,3 +87,11 @@ redirect_from:
 * Leveraged large language model for time series forecasting
 * Implemented patch tokenization of time series as well as patch mixing, contrastive learning
 * Experimented with pretraining strategies for masking time series
+
+## Awards
+- USC Annenberg Fellowship 2023
+- Student Research Paper Competition (SRC) Second Place at ACM SIGSPATIAL 2022
+- Best Paper Award from ACM SIGSPATIAL Spatial Epidemiology Workshop 2022
+- Hilldale Undergraduate/Faculty Research Fellowship (2022-2023): Understanding spatial inequality to healthcare access in Wisconsin through deep learning-based network analysis
+- MinneAnalytics Scholarship 2021
+- Dean’s List
