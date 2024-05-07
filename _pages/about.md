@@ -30,6 +30,7 @@ Ph.D. in Computer Science
 	<i>Aug. 2019 - May 2023</i>
 </div>
 GPA: **4.0**/4
+
 Bachelor of Science in **Computer Science**, **Data Science**, **Statistics**
 
 <!-- ## News
