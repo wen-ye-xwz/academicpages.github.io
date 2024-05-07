@@ -41,7 +41,7 @@ Coming Soon... -->
 	**Wen Ye**, Song Gao \\
 	*Proceedings of the 3rd ACM SIGSPATIAL International Workshop on Spatial Computing for Epidemiology*
 
-More details are under [Publications](academicpages.github.io/publications/)
+More details are under [Publications](/publications/)
 
 <!-- ## Service -->
 
