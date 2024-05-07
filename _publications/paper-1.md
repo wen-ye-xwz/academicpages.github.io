@@ -1,13 +1,13 @@
 ---
-title: "I2I: Initializing Adapters with Improvised Knowledge"
+title: "TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting"
 collection: publications
-permalink: /publication/paper-1
+permalink: /publication/paper-3
 excerpt: ''
-date: 2023-05-15
-venue: 'CoLLAs 2023 (Second Conference on Lifelong Learning Agents)'
-authors: 'Tejas Srinivasan, <strong>Furong Jia</strong>, Mohammad Rostami, Jesse Thomason'
+date: 2024-5-7
+venue: 'The Twelfth International Conference on Learning Representations (ICLR 2024)'
+authors: 'Defu Cao, <strong>Furong Jia</strong>, Sercan O Arik, Tomas Pfister, Yixiang Zheng, Wen Ye, Yan Liu'
 ---
 
-Adapters present a promising solution to the catastrophic forgetting problem in continual learning. However, training independent Adapter modules for every new task misses an opportunity for cross-task knowledge transfer. We propose Improvise to Initialize (I2I), a continual learning algorithm that initializes Adapters for incoming tasks by distilling knowledge from previously-learned tasks' Adapters. We evaluate I2I on CLiMB, a multimodal continual learning benchmark, by conducting experiments on sequences of visual question answering tasks. Adapters trained with I2I consistently achieve better task accuracy than independently-trained Adapters, demonstrating that our algorithm facilitates knowledge transfer between task Adapters. I2I also results in better cross-task knowledge transfer than the state-of-the-art AdapterFusion without incurring the associated parametric cost.
+The past decade has witnessed significant advances in time series modeling with deep learning. While achieving state-of-the-art results, the best-performing architectures vary highly across applications and domains. Meanwhile, for natural language processing, the Generative Pre-trained Transformer (GPT) has demonstrated impressive performance via training one general-purpose model across various textual datasets. It is intriguing to explore whether GPT-type architectures can be effective for time series, capturing the intrinsic dynamic attributes and leading to significant accuracy improvements. In this paper, we propose a novel framework, TEMPO, that can effectively learn time series representations. We focus on utilizing two essential inductive biases of the time series task for pre-trained models: (i) decomposition of the complex interaction between trend, seasonal and residual components; and (ii) introducing the design of prompts to facilitate distribution adaptation in different types of time series. TEMPO expands the capability for dynamically modeling real-world temporal phenomena from data within diverse domains. Our experiments demonstrate the superior performance of TEMPO over state-of-the-art methods on zero shot setting for a number of time series benchmark datasets. This performance gain is observed not only in scenarios involving previously unseen datasets but also in scenarios with multi-modal inputs. This compelling finding highlights TEMPO's potential to constitute a foundational model-building framework.
 
-[Download paper here](https://arxiv.org/pdf/2304.02168.pdf)
+[Download paper here](https://arxiv.org/abs/2310.04948)

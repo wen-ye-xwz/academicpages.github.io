@@ -1,13 +1,13 @@
 ---
-title: "GPT4MTS: Prompt-based Large Language Model for Multimodal Time-series Forecasting"
+title: "Understanding the spatiotemporal heterogeneities in the associations between COVID-19 infections and both human mobility and close contacts in the United States"
 collection: publications
 permalink: /publication/paper-2
 excerpt: ''
-date: 2024-2-24
-venue: 'EAAI-24 (The 14th Symposium on Educational Advances in Artificial Intelligence)'
-authors: '<strong>Furong Jia</strong>, Kevin Wang, Yixiang Zheng, Defu Cao, Yan Liu'
+date: 2022-11-1
+venue: 'Proceedings of the 3rd ACM SIGSPATIAL International Workshop on Spatial Computing for Epidemiology'
+authors: '<strong>Wen Ye</strong>, Song Gao'
 ---
 
-Time series forecasting is an essential area of machine learning with a wide range of real-world applications. Most of the previous forecasting models aim to capture dynamic characteristics from uni-modal numerical historical data. Although extra knowledge can boost the time series forecasting performance, it is hard to collect such information. In addition, how to fuse the multimodal information is non-trivial. In this paper, we first propose a general principle of collecting the corresponding textual information from different data sources with the help of modern large language models (LLM). Then, we propose a prompt-based LLM framework to utilize both the numerical data and the textual information simultaneously, named GPT4MTS. In practice, we propose a GDELT-based multimodal time series dataset for news impact forecasting, which provides a concise and well-structured version of time series dataset with textual information for further research in communication. Through extensive experiments, we demonstrate the effectiveness of our proposed method on forecasting tasks with extra-textual information.
+It has been well-established that human mobility has an inseparable relationship with COVID-19 infections. As social-distancing and stay-at-home orders lifted and data availability increased, our knowledge on how human behaviors including mobility and close interpersonal contacts associate with the pandemic progression also needs to stay updated. In this paper, we examine the relationship of COVID-19 daily transmissibility measured by the total confirmed cases and the effective reproduction number (Rt) with the two indices that provide human behavior insights: Cuebiq Mobility Index (CMI) and Cuebiq Contact Index (CCI). The correlations between each index and COVID-19 infections are evaluated using the Maximal Information Coefficient (MIC) which is powerful in capturing complex relationships. Moreover, the study period is segmented into three periods by Bayesian Change Point Detection to examine temporal heterogeneity and the mainland US states are grouped into three distinct clusters using the KShape clustering algorithm to further examine spatial heterogeneity. The CCI and CMI exhibited very different patterns and we found significant temporal and spatial heterogeneities among the relationships between the two indices and COVID-19 infection rate. Although human mobility has demonstrated high correlation with COVID-19 infection rate in 2020, close contacts became much more correlated with COVID-19 infection than mobility in 2021. However, states in the Plains and Rocky Mountains area are exceptions to this observation. During the first wave in 2020, it is also shown that mobility has a high impact on states outside of Farwest and Southeast than those states within that region.
 
-[Download paper here](https://ojs.aaai.org/index.php/AAAI/article/view/30383)
+[Download paper here](https://dl.acm.org/doi/abs/10.1145/3557995.3566117)

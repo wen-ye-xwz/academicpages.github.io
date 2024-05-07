@@ -3,22 +3,23 @@
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
+# `jekyll serve -l -H localhost`. If you change this file, please restart the 
+# server process.
 
-# Site Settings
+# Basic Site Settings
 locale                   : "en-US"
-title                    : "Furong Jia"
+title                    : "Wen Ye"
 title_separator          : ""
-name                     : &name "Furong Jia"
-description              : &description "Furong Jia's personal website"
-url                      : https://flora-jia-jfr.github.io/furongjia.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Wen Ye"
+description              : &description "Wen Ye's personal website"
+url                      : https://wen-ye-xwz.github.io/academicpages.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Flora-jia-jfr/furongjia.github.io"
+repository               : "wen-ye-xwz/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
-read_more                : "disable" # if enabled, adds "Read more" links to excerpts
+read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -47,13 +48,16 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
+  # hide                   : false     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
+
 
 # SEO Related
 google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
+
 
 # Social Sharing
 twitter:
@@ -73,22 +77,21 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "google-universal" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
 
-
 # Site Author
 author:
-  name             : "Furong Jia"
-  avatar           : "profile.jpg"
-  bio              : "Senior Undergrad"
+  name             : "Wen Ye"
+  avatar           : "profile.png"
+  bio              : "Ph.D. Student "
   location         : "Los Angeles, California"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=yNx9cokAAAAJ&hl=en"
-  email            :  "florajia@usc.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=_HxPFowAAAAJ&hl=en&oi=ao"
+  email            : "yewen@usc.edu"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +99,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Flora-jia-jfr"
+  github           : "https://github.com/wen-ye-xwz"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,13 +112,12 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/Flora__Jia"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-
 
 # Reading Files
 include:
@@ -244,6 +246,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+
 
 # Sass/SCSS
 sass:
