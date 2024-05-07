@@ -26,8 +26,19 @@ redirect_from:
 </div>
 
 <div>
-	<p style='margin:0px'><strong>Ph.D. in Computer Science</strong></p>
+	<p style='margin:0px'>Ph.D. in Computer Science</p>
 </div>
+
+
+<div style='display: flex; justify-content: space-between;'>
+	<p style='font-size:20px; margin-bottom:5px'><b>University of Wisconsin - Madison</b></p>
+	<i>Aug 2019 – May 2023</i>
+</div>
+
+<div>
+	<p style='margin:0px'>Bachelor of Science in Computer Science, Data Science, Statistics</p>
+</div>
+
 
 
 ## Work Experiences
