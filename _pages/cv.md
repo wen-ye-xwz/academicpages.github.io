@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Wen(Wendy) Ye"
+title: "Wen (Wendy) Ye"
 permalink: /cv/
 author_profile: true
 redirect_from:
